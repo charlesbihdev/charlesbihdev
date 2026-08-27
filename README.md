@@ -1,0 +1,113 @@
+<h1 align="center">Hi, I'm Charles Owusu Bih 👋</h1>
+
+<p align="center">
+  <b>AI/ML Engineer · Building LLM agents you can actually trust in production</b><br>
+  <sub>Accra, Ghana 🇬🇭</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.charlesbih.dev"><img src="https://img.shields.io/badge/Portfolio-charlesbih.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/charles-owusu-bih-6988461a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:charlesowusubih@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### 🔭 About me
+
+I build AI systems — especially **LLM-based agents** — that can actually be trusted: verified, resistant to misuse, and reliable even with limited compute or data.
+
+- 🎓 **B.Sc. Computer Science & Engineering**, University of Mines and Technology, Ghana (2025)
+- 🧪 My final-year research combined **facial recognition with cryptographic tamper-checks** for secure biometric identity verification.
+- 🤝 **Co-Founder & Software Developer @ Pentatech Axis** — building SaaS for small & medium businesses across Ghana.
+- 🧠 **Intern Software Engineer @ Center for Analytics** — turning data-pipeline requirements into production systems (99.9% uptime under peak load).
+- 🌱 Currently going deeper on the gap between *"an agent that works in a demo"* and *"an agent you can trust in production."*
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Machine Learning / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Data Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Databases & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=chromatic&logoColor=white)
+
+**Security**
+
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Biometric Attendance System](https://github.com/charlesbihdev)** | Multi-modal biometric exam-attendance verification — FaceNet (InceptionResnetV1) + MTCNN with cryptographic tamper-evident logging. | `PyTorch` `FastAPI` `SQLite` |
+| **[Biizz.app](https://biizz.app)** | E-commerce platform with an LLM conversational agent wired into the Meta WhatsApp API for automated orders. | `React` `Laravel` `OpenAI` `Docker` |
+| **[Event-Pulse](http://event-pulse.com)** | Event management — scheduling, QR ticketing & analytics, supporting 10,000+ concurrent users. | `React` `Node.js` |
+| **[Chodelivery](https://chodelivery.com)** | Full-stack food delivery (web + mobile) — 1,500+ orders/month. [App Store](https://apps.apple.com/app/chodelivery) · [Play Store](https://play.google.com/store/apps/details?id=com.chodelivery) | `Full-stack` `Mobile` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charlesbihdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbihdev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesbihdev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏅 Certifications
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+---
+
+<p align="center"><sub>💬 Ask me about LLM agents, biometric ML, or shipping SaaS in low-resource environments.</sub></p>
