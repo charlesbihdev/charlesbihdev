@@ -15,9 +15,9 @@
 
 ### 🔭 About me
 
-I'm a **software engineer and full-stack developer** who ships production software end to end: SaaS platforms, e-commerce, and web & mobile apps used by real businesses across Ghana.
+I'm a **software engineer and full-stack developer** shipping production SaaS, e-commerce, and web & mobile apps for real businesses across Ghana.
 
-My **research interest** is in machine learning and deep learning systems that people can actually trust, systems that are verified, resistant to misuse, and reliable even with limited compute or data. My final-year project applied this to biometric identity verification, combining facial recognition with cryptographic checks against tampering. Since then, building LLM-based conversational agents in industry has extended the same question to a new setting: an agent that works in a demo and one you can trust in production are not the same thing. Closing that gap, across both deep learning models and language agents, is what I want to study further.
+My **research interest** is in machine learning and deep learning systems that people can actually trust: verified, resistant to misuse, and reliable even with limited compute or data. My final-year project applied this to biometric identity verification (facial recognition plus cryptographic tamper checks), and building LLM-based conversational agents in industry has since extended the same question to production agents. Closing that trust gap, across both deep learning models and language agents, is what I want to study further.
 
 - 🎓 **B.Sc. Computer Science & Engineering**, University of Mines and Technology, Ghana (2025)
 - 🧪 I led my team on our [**final-year research**](https://github.com/charlesbihdev/final_year): a multi-modal biometric attendance system combining **FaceNet + MTCNN facial recognition** with **cryptographic tamper-evident verification**.
@@ -96,6 +96,7 @@ My **research interest** is in machine learning and deep learning systems that p
 ### 🏅 Certifications
 
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Foundations of Project Management](https://img.shields.io/badge/Google-Foundations%20of%20Project%20Management-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
