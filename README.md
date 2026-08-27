@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Charles Owusu Bih 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Building LLM agents you can actually trust in production</b><br>
+  <b>Software | AI/ML Engineer · Building LLM agents you can actually trust in production</b><br>
   <sub>Accra, Ghana 🇬🇭</sub>
 </p>
 
@@ -15,14 +15,14 @@
 
 ### 🔭 About me
 
-I build AI systems — especially **LLM-based agents** — that can actually be *trusted*: verified, resistant to misuse, and reliable even with limited compute or data. Building conversational agents in industry taught me that an agent that works in a demo and one you can trust in production are not the same thing — and closing that gap is what I care about most.
+I'm a **software engineer and full-stack developer** who ships production software end to end: SaaS platforms, e-commerce, and web & mobile apps used by real businesses across Ghana.
+
+My **research interest** is in machine learning and deep learning systems that people can actually trust, systems that are verified, resistant to misuse, and reliable even with limited compute or data. My final-year project applied this to biometric identity verification, combining facial recognition with cryptographic checks against tampering. Since then, building LLM-based conversational agents in industry has extended the same question to a new setting: an agent that works in a demo and one you can trust in production are not the same thing. Closing that gap, across both deep learning models and language agents, is what I want to study further.
 
 - 🎓 **B.Sc. Computer Science & Engineering**, University of Mines and Technology, Ghana (2025)
 - 🧪 I led my team on our [**final-year research**](https://github.com/charlesbihdev/final_year): a multi-modal biometric attendance system combining **FaceNet + MTCNN facial recognition** with **cryptographic tamper-evident verification**.
-- 🤝 **Software Engineer @ Pentatech Axis** — building SaaS (like Event-Pulse), driving digital transformation for 12+ businesses, and setting architecture standards for the team.
-- 🧠 **Intern Software Engineer @ Center for Analytics** — turning data-pipeline requirements into production systems that held **99.9% uptime** under heavy concurrent load.
-- 🤖 Designed and shipped an **LLM conversational agent** on the Meta WhatsApp API to automate customer orders end-to-end.
-- 🌱 Currently going deeper on trustworthy, verifiable LLM agents.
+- 🤝 **Software Engineer @ Pentatech Axis**: building SaaS (like Event-Pulse), driving digital transformation for 12+ businesses, and setting architecture standards for the team.
+- 🧠 **Intern Software Engineer @ Center for Analytics**: turning data-pipeline requirements into production systems that held **99.9% uptime** under heavy concurrent load.
 
 ---
 
@@ -85,19 +85,11 @@ I build AI systems — especially **LLM-based agents** — that can actually be 
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Biometric Attendance System](https://github.com/charlesbihdev/final_year)** | Multi-modal biometric exam-attendance verification — FaceNet (InceptionResnetV1) + MTCNN with cryptographic tamper-evident logging. | `PyTorch` `FastAPI` `SQLite` |
-| **[ML / Data Science Notebooks](https://github.com/charlesbihdev/charlesbihdev-ML-DataScience-Notebooks)** | Hands-on ML & data-science notebooks — retail analysis, iris classification, linear regression from scratch, face recognition. | `PyTorch` `scikit-learn` `Pandas` |
+| **[Biometric Attendance System](https://github.com/charlesbihdev/final_year)** | Multi-modal biometric exam-attendance verification: FaceNet (InceptionResnetV1) + MTCNN with cryptographic tamper-evident logging. | `PyTorch` `FastAPI` `SQLite` |
+| **[ML / Data Science Notebooks](https://github.com/charlesbihdev/charlesbihdev-ML-DataScience-Notebooks)** | Hands-on ML & data-science notebooks: retail analysis, iris classification, linear regression from scratch, face recognition. | `PyTorch` `scikit-learn` `Pandas` |
 | **[Biizz.app](https://biizz.app)** | E-commerce platform with an LLM conversational agent wired into the Meta WhatsApp API for automated orders. | `React` `Laravel` `OpenAI` `Docker` |
-| **[Event-Pulse](http://event-pulse.com)** | Event management — scheduling, QR ticketing & analytics, supporting 10,000+ concurrent users. | `React` `Node.js` |
-| **[Chodelivery](https://chodelivery.com)** | Full-stack food delivery (web + mobile) — 1,500+ orders/month. [App Store](https://apps.apple.com/app/chodelivery) · [Play Store](https://play.google.com/store/apps/details?id=com.chodelivery) | `Full-stack` `Mobile` |
-
----
-
-### 📄 Résumé
-
-<p align="center">
-  <a href="./Charles_Owusu_Bih_Academic_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-Charles%20Owusu%20Bih-0A0A0A?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
-</p>
+| **[Event-Pulse](http://event-pulse.com)** | Event management: scheduling, QR ticketing & analytics, supporting 10,000+ concurrent users. | `React` `Node.js` |
+| **[Chodelivery](https://chodelivery.com)** | Full-stack food delivery (web + mobile), 1,500+ orders/month. [App Store](https://apps.apple.com/app/chodelivery) · [Play Store](https://play.google.com/store/apps/details?id=com.chodelivery) | `Full-stack` `Mobile` |
 
 ---
 
@@ -107,4 +99,4 @@ I build AI systems — especially **LLM-based agents** — that can actually be 
 
 ---
 
-<p align="center"><sub>💬 Ask me about LLM agents, ML, or SaaS.</sub></p>
+<p align="center"><sub>💬 Ask me about full-stack SaaS, shipping products, or trustworthy ML & deep learning.</sub></p>
