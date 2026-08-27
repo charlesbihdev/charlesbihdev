@@ -15,13 +15,14 @@
 
 ### 🔭 About me
 
-I build AI systems — especially **LLM-based agents** — that can actually be trusted: verified, resistant to misuse, and reliable even with limited compute or data.
+I build AI systems — especially **LLM-based agents** — that can actually be *trusted*: verified, resistant to misuse, and reliable even with limited compute or data. Building conversational agents in industry taught me that an agent that works in a demo and one you can trust in production are not the same thing — and closing that gap is what I care about most.
 
 - 🎓 **B.Sc. Computer Science & Engineering**, University of Mines and Technology, Ghana (2025)
-- 🧪 My final-year research combined **facial recognition with cryptographic tamper-checks** for secure biometric identity verification.
-- 🤝 **Co-Founder & Software Developer @ Pentatech Axis** — building SaaS for small & medium businesses across Ghana.
-- 🧠 **Intern Software Engineer @ Center for Analytics** — turning data-pipeline requirements into production systems (99.9% uptime under peak load).
-- 🌱 Currently going deeper on the gap between *"an agent that works in a demo"* and *"an agent you can trust in production."*
+- 🧪 I led my team on our [**final-year research**](https://github.com/charlesbihdev/final_year): a multi-modal biometric attendance system combining **FaceNet + MTCNN facial recognition** with **cryptographic tamper-evident verification**.
+- 🤝 **Software Engineer @ Pentatech Axis** — building SaaS (like Event-Pulse), driving digital transformation for 12+ businesses, and setting architecture standards for the team.
+- 🧠 **Intern Software Engineer @ Center for Analytics** — turning data-pipeline requirements into production systems that held **99.9% uptime** under heavy concurrent load.
+- 🤖 Designed and shipped an **LLM conversational agent** on the Meta WhatsApp API to automate customer orders end-to-end.
+- 🌱 Currently going deeper on trustworthy, verifiable LLM agents.
 
 ---
 
@@ -84,22 +85,18 @@ I build AI systems — especially **LLM-based agents** — that can actually be 
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Biometric Attendance System](https://github.com/charlesbihdev)** | Multi-modal biometric exam-attendance verification — FaceNet (InceptionResnetV1) + MTCNN with cryptographic tamper-evident logging. | `PyTorch` `FastAPI` `SQLite` |
+| **[Biometric Attendance System](https://github.com/charlesbihdev/final_year)** | Multi-modal biometric exam-attendance verification — FaceNet (InceptionResnetV1) + MTCNN with cryptographic tamper-evident logging. | `PyTorch` `FastAPI` `SQLite` |
+| **[ML / Data Science Notebooks](https://github.com/charlesbihdev/charlesbihdev-ML-DataScience-Notebooks)** | Hands-on ML & data-science notebooks — retail analysis, iris classification, linear regression from scratch, face recognition. | `PyTorch` `scikit-learn` `Pandas` |
 | **[Biizz.app](https://biizz.app)** | E-commerce platform with an LLM conversational agent wired into the Meta WhatsApp API for automated orders. | `React` `Laravel` `OpenAI` `Docker` |
 | **[Event-Pulse](http://event-pulse.com)** | Event management — scheduling, QR ticketing & analytics, supporting 10,000+ concurrent users. | `React` `Node.js` |
 | **[Chodelivery](https://chodelivery.com)** | Full-stack food delivery (web + mobile) — 1,500+ orders/month. [App Store](https://apps.apple.com/app/chodelivery) · [Play Store](https://play.google.com/store/apps/details?id=com.chodelivery) | `Full-stack` `Mobile` |
 
 ---
 
-### 📊 GitHub Stats
+### 📄 Résumé
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charlesbihdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbihdev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesbihdev&theme=tokyonight&hide_border=true" />
+  <a href="./Charles_Owusu_Bih_Academic_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-Charles%20Owusu%20Bih-0A0A0A?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
 </p>
 
 ---
@@ -110,4 +107,4 @@ I build AI systems — especially **LLM-based agents** — that can actually be 
 
 ---
 
-<p align="center"><sub>💬 Ask me about LLM agents, biometric ML, or shipping SaaS in low-resource environments.</sub></p>
+<p align="center"><sub>💬 Ask me about LLM agents, ML, or SaaS.</sub></p>
